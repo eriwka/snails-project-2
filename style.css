@@ -1,0 +1,89 @@
+body {
+    background-color: #e0ccbb;
+    font-family: Impact, fantasy;
+    color: #b18670;
+    font-size: 40px
+}
+
+header {
+    background-color: #c2a48c;
+    border-radius: 80px;
+    color: #fff9f0;
+    font-family: GABRIOLA;
+    font-size: 50px;
+    text-align: center;
+}
+
+header h2 {
+    color: rgb(240, 220, 204)
+}
+
+a {
+    color: rgb(219, 199, 186);
+    text-decoration: none;
+    background-color: rgb(119, 87, 66);
+    border-radius: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.img {
+    border-radius: 50px;
+    border: 15px dashed rgb(150, 108, 95);
+    width: 390px;
+    height: 290px;
+}
+
+header h1 {
+    margin: 1px;
+    padding: 1px
+}
+
+h4 {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: rgb(194, 150, 129);
+}
+
+.p {
+    font-family: Luminari, fantasy;
+    font-size: 20px; 
+    background-color: #b49a8a;
+    color: OldLace;
+    padding: 33px;
+    border-radius: 5px;
+}
+
+main h2 {
+    background-color: rgb(255, 246, 238);
+    border-radius: 3px;
+    padding: 6px;
+}
+
+footer {
+    background-color: black;
+     color: Ivory
+}
+
+.h {   
+     background-color: rgb(241, 224, 209);
+    border-radius: 3px;
+    padding: 6px;
+    }
+
+table {
+    font-family: Courier New; 
+    font-size: 20px; 
+    border: 4px solid #9F8170;
+    background-color: #DABDAB
+}
+
+.trr {
+    background-color: #BC987E; 
+    color: #755C48
+}
+
+.td {
+    background-color: #E9C9AF;
+     color: white
+}
