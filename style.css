@@ -67,7 +67,23 @@ main h2 {
 
 footer {
     background-color: black;
-     color: Ivory
+     color: Ivory;
+     text-align: center;
+  
+}
+
+footer p {
+    font-size: 15px;
+    margin: 10px;
+}
+
+footer h5 {
+    margin: 0px;
+}
+
+footer img {
+    width: 130px;
+    height: 70px;
 }
 
 .h {   
